@@ -1,0 +1,17 @@
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.exe
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.deps.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.runtimeconfig.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.Form1.resources
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.Properties.Resources.resources
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.csproj.GenerateResource.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.AssemblyInfoInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.AssemblyInfo.cs
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.csproj.CoreCompileInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\refint\INF_Übungsbeispiel_Ampelschaltung.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Ampelschaltung.genruntimeconfig.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Ampelschaltung\obj\Debug\net8.0-windows\ref\INF_Übungsbeispiel_Ampelschaltung.dll
